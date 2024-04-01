@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+youtube Test Suite,Chrome 123.0.0.0,,,01-04-2024 10:19:51,01-04-2024 10:20:05,14.030s,FAILED
+,,,,,,,
+Test Cases/youtube Test Case,Chrome 123.0.0.0,,,01-04-2024 10:20:02,01-04-2024 10:20:05,3.050s,FAILED
+"openBrowser("""")",Chrome 123.0.0.0,,,01-04-2024 10:20:02,01-04-2024 10:20:03,1.078s,PASSED
+"navigateToUrl(""https://www.google.co.id/"")",Chrome 123.0.0.0,,,01-04-2024 10:20:03,01-04-2024 10:20:04,1.564s,PASSED
+"takeScreenshotAsCheckpoint("""", STOP_ON_FAILURE)",Chrome 123.0.0.0,,,01-04-2024 10:20:04,01-04-2024 10:20:05,0.382s,FAILED

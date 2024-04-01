@@ -19,25 +19,29 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://katalon-demo-cura.herokuapp.com/')
+WebUI.navigateToUrl('https://www.google.co.id/')
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'))
+WebUI.takeScreenshotAsCheckpoint('Halaman awal', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/a_Login'))
+WebUI.setText(findTestObject('Object Repository/youtube/Page_Google/textarea_Login_q'), 'youtube')
 
-WebUI.setText(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/input_Username_username'), 'John Doe')
+WebUI.click(findTestObject('Object Repository/youtube/Page_Google/svg'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
+WebUI.click(findTestObject('Object Repository/youtube/Page_Google/button_Tetap logout'))
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/button_Login'))
+WebUI.click(findTestObject('Object Repository/youtube/Page_Google/div_YouTube.MagqMc .ZFiwCfbackground-colorf_2c36aa'))
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/div_Comment'))
+WebUI.click(findTestObject('Object Repository/youtube/Page_youtube - Penelusuran Google/h3_YouTube Beranda'))
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/div_Make Appointment'))
+WebUI.takeScreenshotAsCheckpoint('halaman awal youtube')
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars'))
+WebUI.setText(findTestObject('Object Repository/youtube/Page_YouTube/input_Skip navigation_search_query'), 'windah basudara')
 
-WebUI.click(findTestObject('Object Repository/Healt/Page_CURA Healthcare Service/a_Logout'))
+WebUI.click(findTestObject('Object Repository/youtube/Page_YouTube/div'))
+
+WebUI.click(findTestObject('Object Repository/youtube/Page_windah basudara - YouTube/yt-formatted-string_KONFLIK GANGSTER JEPANG_a6bdf3'))
+
+WebUI.takeScreenshotAsCheckpoint('hasil pencarian')
 
 WebUI.closeBrowser()
 

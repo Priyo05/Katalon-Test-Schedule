@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Web Test Suite,Chrome 123.0.0.0,,,01-04-2024 10:13:32,01-04-2024 10:13:48,15.634s,PASSED
+,,,,,,,
+Test Cases/Web Test Case,Chrome 123.0.0.0,,,01-04-2024 10:13:32,01-04-2024 10:13:48,15.439s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,01-04-2024 10:13:33,01-04-2024 10:13:35,2.774s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 123.0.0.0,,,01-04-2024 10:13:35,01-04-2024 10:13:41,5.875s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle""))",Chrome 123.0.0.0,,,01-04-2024 10:13:41,01-04-2024 10:13:42,0.517s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/a_Login""))",Chrome 123.0.0.0,,,01-04-2024 10:13:42,01-04-2024 10:13:43,0.900s,PASSED
+"setText(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/input_Username_username""), ""John Doe"")",Chrome 123.0.0.0,,,01-04-2024 10:13:43,01-04-2024 10:13:43,0.861s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/input_Password_password""), ""g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"")",Chrome 123.0.0.0,,,01-04-2024 10:13:43,01-04-2024 10:13:44,0.500s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/button_Login""))",Chrome 123.0.0.0,,,01-04-2024 10:13:44,01-04-2024 10:13:45,1.103s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/div_Comment""))",Chrome 123.0.0.0,,,01-04-2024 10:13:45,01-04-2024 10:13:45,0.397s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/div_Make Appointment""))",Chrome 123.0.0.0,,,01-04-2024 10:13:45,01-04-2024 10:13:46,0.352s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/i_CURA Healthcare_fa fa-bars""))",Chrome 123.0.0.0,,,01-04-2024 10:13:46,01-04-2024 10:13:46,0.355s,PASSED
+"click(findTestObject(""Object Repository/Healt/Page_CURA Healthcare Service/a_Logout""))",Chrome 123.0.0.0,,,01-04-2024 10:13:46,01-04-2024 10:13:47,1.217s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,01-04-2024 10:13:47,01-04-2024 10:13:48,0.246s,PASSED

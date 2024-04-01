@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+youtube Test Suite,Chrome 123.0.0.0,,,01-04-2024 10:21:42,01-04-2024 10:22:08,26.135s,PASSED
+,,,,,,,
+Test Cases/youtube Test Case,Chrome 123.0.0.0,,,01-04-2024 10:21:42,01-04-2024 10:22:08,25.883s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,01-04-2024 10:21:42,01-04-2024 10:21:45,2.814s,PASSED
+"navigateToUrl(""https://www.google.co.id/"")",Chrome 123.0.0.0,,,01-04-2024 10:21:45,01-04-2024 10:21:46,1.010s,PASSED
+"takeScreenshotAsCheckpoint(""0"", STOP_ON_FAILURE)",Chrome 123.0.0.0,,,01-04-2024 10:21:46,01-04-2024 10:21:47,0.726s,PASSED
+"setText(findTestObject(""Object Repository/youtube/Page_Google/textarea_Login_q""), ""youtube"")",Chrome 123.0.0.0,,,01-04-2024 10:21:47,01-04-2024 10:21:48,0.811s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/svg""))",Chrome 123.0.0.0,,,01-04-2024 10:21:48,01-04-2024 10:21:48,0.722s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/button_Tetap logout""))",Chrome 123.0.0.0,,,01-04-2024 10:21:48,01-04-2024 10:21:49,0.577s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/div_YouTube.MagqMc .ZFiwCfbackground-colorf_2c36aa""))",Chrome 123.0.0.0,,,01-04-2024 10:21:49,01-04-2024 10:21:49,0.459s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_youtube - Penelusuran Google/h3_YouTube Beranda""))",Chrome 123.0.0.0,,,01-04-2024 10:21:49,01-04-2024 10:21:56,6.211s,PASSED
+"takeScreenshotAsCheckpoint(""0"")",Chrome 123.0.0.0,,,01-04-2024 10:21:56,01-04-2024 10:21:57,1.727s,PASSED
+"setText(findTestObject(""Object Repository/youtube/Page_YouTube/input_Skip navigation_search_query""), ""windah basudara"")",Chrome 123.0.0.0,,,01-04-2024 10:21:57,01-04-2024 10:21:58,1.042s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_YouTube/div""))",Chrome 123.0.0.0,,,01-04-2024 10:21:58,01-04-2024 10:21:59,0.654s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_windah basudara - YouTube/yt-formatted-string_KONFLIK GANGSTER JEPANG_a6bdf3""))",Chrome 123.0.0.0,,,01-04-2024 10:21:59,01-04-2024 10:22:02,2.903s,PASSED
+"takeScreenshotAsCheckpoint(""0"")",Chrome 123.0.0.0,,,01-04-2024 10:22:02,01-04-2024 10:22:07,5.365s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,01-04-2024 10:22:07,01-04-2024 10:22:08,0.451s,PASSED

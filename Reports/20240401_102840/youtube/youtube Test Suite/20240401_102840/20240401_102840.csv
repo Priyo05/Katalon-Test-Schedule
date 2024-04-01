@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+youtube Test Suite,Chrome 123.0.0.0,,,01-04-2024 10:28:49,01-04-2024 10:29:17,27.941s,PASSED
+,,,,,,,
+Test Cases/youtube Test Case,Chrome 123.0.0.0,,,01-04-2024 10:28:49,01-04-2024 10:29:17,27.670s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,01-04-2024 10:28:49,01-04-2024 10:28:52,3.133s,PASSED
+"navigateToUrl(""https://www.google.co.id/"")",Chrome 123.0.0.0,,,01-04-2024 10:28:52,01-04-2024 10:28:53,0.956s,PASSED
+"takeScreenshotAsCheckpoint(""Halaman awal"", STOP_ON_FAILURE)",Chrome 123.0.0.0,,,01-04-2024 10:28:53,01-04-2024 10:28:54,0.784s,PASSED
+"setText(findTestObject(""Object Repository/youtube/Page_Google/textarea_Login_q""), ""youtube"")",Chrome 123.0.0.0,,,01-04-2024 10:28:54,01-04-2024 10:28:55,0.912s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/svg""))",Chrome 123.0.0.0,,,01-04-2024 10:28:55,01-04-2024 10:28:56,0.765s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/button_Tetap logout""))",Chrome 123.0.0.0,,,01-04-2024 10:28:56,01-04-2024 10:28:56,0.550s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/div_YouTube.MagqMc .ZFiwCfbackground-colorf_2c36aa""))",Chrome 123.0.0.0,,,01-04-2024 10:28:56,01-04-2024 10:28:57,0.488s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_youtube - Penelusuran Google/h3_YouTube Beranda""))",Chrome 123.0.0.0,,,01-04-2024 10:28:57,01-04-2024 10:29:02,5.228s,PASSED
+"takeScreenshotAsCheckpoint(""halaman awal youtube"")",Chrome 123.0.0.0,,,01-04-2024 10:29:02,01-04-2024 10:29:05,3.169s,PASSED
+"setText(findTestObject(""Object Repository/youtube/Page_YouTube/input_Skip navigation_search_query""), ""windah basudara"")",Chrome 123.0.0.0,,,01-04-2024 10:29:05,01-04-2024 10:29:06,0.775s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_YouTube/div""))",Chrome 123.0.0.0,,,01-04-2024 10:29:06,01-04-2024 10:29:07,0.687s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_windah basudara - YouTube/yt-formatted-string_KONFLIK GANGSTER JEPANG_a6bdf3""))",Chrome 123.0.0.0,,,01-04-2024 10:29:07,01-04-2024 10:29:10,2.987s,PASSED
+"takeScreenshotAsCheckpoint(""hasil pencarian"")",Chrome 123.0.0.0,,,01-04-2024 10:29:10,01-04-2024 10:29:16,6.310s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,01-04-2024 10:29:16,01-04-2024 10:29:17,0.548s,PASSED

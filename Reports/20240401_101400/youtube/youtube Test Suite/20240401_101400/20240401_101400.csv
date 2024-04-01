@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+youtube Test Suite,Chrome 123.0.0.0,,,01-04-2024 10:14:08,01-04-2024 10:15:17,1m - 8.698s,PASSED
+,,,,,,,
+Test Cases/youtube Test Case,Chrome 123.0.0.0,,,01-04-2024 10:15:00,01-04-2024 10:15:17,17.286s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,01-04-2024 10:15:00,01-04-2024 10:15:01,1.264s,PASSED
+"navigateToUrl(""https://www.google.co.id/"")",Chrome 123.0.0.0,,,01-04-2024 10:15:01,01-04-2024 10:15:02,1.255s,PASSED
+"setText(findTestObject(""Object Repository/youtube/Page_Google/textarea_Login_q""), ""youtube"")",Chrome 123.0.0.0,,,01-04-2024 10:15:02,01-04-2024 10:15:03,0.714s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/svg""))",Chrome 123.0.0.0,,,01-04-2024 10:15:03,01-04-2024 10:15:04,0.708s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/button_Tetap logout""))",Chrome 123.0.0.0,,,01-04-2024 10:15:04,01-04-2024 10:15:04,0.581s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_Google/div_YouTube.MagqMc .ZFiwCfbackground-colorf_2c36aa""))",Chrome 123.0.0.0,,,01-04-2024 10:15:04,01-04-2024 10:15:05,0.475s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_youtube - Penelusuran Google/h3_YouTube Beranda""))",Chrome 123.0.0.0,,,01-04-2024 10:15:05,01-04-2024 10:15:11,5.914s,PASSED
+"setText(findTestObject(""Object Repository/youtube/Page_YouTube/input_Skip navigation_search_query""), ""windah basudara"")",Chrome 123.0.0.0,,,01-04-2024 10:15:11,01-04-2024 10:15:14,2.760s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_YouTube/div""))",Chrome 123.0.0.0,,,01-04-2024 10:15:14,01-04-2024 10:15:14,0.650s,PASSED
+"click(findTestObject(""Object Repository/youtube/Page_windah basudara - YouTube/yt-formatted-string_KONFLIK GANGSTER JEPANG_a6bdf3""))",Chrome 123.0.0.0,,,01-04-2024 10:15:14,01-04-2024 10:15:17,2.540s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,01-04-2024 10:15:17,01-04-2024 10:15:17,0.391s,PASSED

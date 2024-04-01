@@ -8,7 +8,7 @@
       "proposedLocator": "//iframe",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/youtube/Page_Google/iframe_Login_callout_position.png"
+      "pathToScreenshot": "Reports/20240401_101400/youtube/youtube Test Suite/20240401_101400/Object Repository/youtube/Page_Google/iframe_Login_callout_position.png"
     }
   ]
 }

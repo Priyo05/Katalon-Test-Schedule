@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_YouTube.MagqMc .ZFiwCfbackground-colorf_2c36aa</name>
+   <tag></tag>
+   <elementGuidId>f0bca94d-98f3-40f8-a5d5-47c02557afe2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pcTkSc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Alh6id']/div/div/ul/li/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;YouTubeLihat lainnya&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f79d06b-47b5-4470-8fd1-83e209372f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pcTkSc</value>
+      <webElementGuid>16a92feb-0b86-4aae-8fe0-d4beccc5472d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YouTube.MagqMc .ZFiwCf{background-color:#fff;border:1px solid var(--gS5jXb);width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:var(--YLNNHc)}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.TQc1id .U48fD{margin-top:16px}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.U48fD.ke7M4{padding-left:0;padding-right:0}.jRKCUd::before{bottom:12px;content:'';left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:100%;max-width:300px;height:36px;border-radius:18px;outline:1px solid transparent;background-color:#f1f3f4}@media (forced-colors:active){.ZFiwCf{border:1px solid transparent}}.TQc1id .ZFiwCf{max-width:unset}.Zjtggb .ZFiwCf{max-width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:var(--gS5jXb);margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:var(--amnPwe)}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}Lihat lainnya</value>
+      <webElementGuid>d49e55af-e96c-4bfb-b09b-e545b9e6f30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Alh6id&quot;)/div[@class=&quot;erkvQe&quot;]/div[@class=&quot;OBMEnb&quot;]/ul[@class=&quot;G43f7e&quot;]/li[@class=&quot;sbct PZPZlf sbre sbhl&quot;]/div[@class=&quot;eIPGRd&quot;]/div[@class=&quot;pcTkSc&quot;]</value>
+      <webElementGuid>8d2f335d-cc3f-4a9f-8d4e-b54c1f4b3772</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Alh6id']/div/div/ul/li/div/div[2]</value>
+      <webElementGuid>d4fb39bc-615e-41af-a4d8-dcbd8d2ea254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih elemen yang akan diberi masukan'])[1]/following::div[12]</value>
+      <webElementGuid>807cef58-761d-4169-884c-edcd86a25262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[46]</value>
+      <webElementGuid>ade0cb17-6248-479a-8a62-f8bd6f38ba4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]</value>
+      <webElementGuid>62efd286-3ea8-4f6f-bae4-49205f4091fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;YouTube.MagqMc .ZFiwCf{background-color:#fff;border:1px solid var(--gS5jXb);width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:var(--YLNNHc)}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.TQc1id .U48fD{margin-top:16px}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.U48fD.ke7M4{padding-left:0;padding-right:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:100%;max-width:300px;height:36px;border-radius:18px;outline:1px solid transparent;background-color:#f1f3f4}@media (forced-colors:active){.ZFiwCf{border:1px solid transparent}}.TQc1id .ZFiwCf{max-width:unset}.Zjtggb .ZFiwCf{max-width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:var(--gS5jXb);margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:var(--amnPwe)}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}Lihat lainnya&quot;) or . = concat(&quot;YouTube.MagqMc .ZFiwCf{background-color:#fff;border:1px solid var(--gS5jXb);width:100%}.MagqMc.U48fD{padding:0;margin-top:16px}.MagqMc .Bi9oQd{display:none}.MagqMc{padding:0}.MagqMc:hover .LGwnxb{color:var(--YLNNHc)}.sOmPcf .ZFiwCf{background-color:#fafafa}.U48fD{-webkit-tap-highlight-color:transparent;cursor:pointer;display:block;line-height:18px;text-overflow:ellipsis;white-space:nowrap;padding:16px;padding-top:0;margin-top:24px;position:relative}.TQc1id .U48fD{margin-top:16px}.U48fD.df13ud{margin-top:16px}.U48fD.TOQyFc{margin-top:0}.U48fD.p8FEIf{padding-bottom:0}.U48fD.ke7M4{padding-left:0;padding-right:0}.jRKCUd::before{bottom:12px;content:&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot;;left:16px;position:absolute;right:16px;top:-4px}a.jRKCUd:hover{text-decoration:none}.ZFiwCf{display:flex;align-items:center;justify-content:center;position:relative;margin:0 auto;font-size:14px;font-family:arial,sans-serif;font-weight:400;width:100%;max-width:300px;height:36px;border-radius:18px;outline:1px solid transparent;background-color:#f1f3f4}@media (forced-colors:active){.ZFiwCf{border:1px solid transparent}}.TQc1id .ZFiwCf{max-width:unset}.Zjtggb .ZFiwCf{max-width:unset}.ZFiwCf:hover{background-color:#fafafa}.nCFUpc .ZFiwCf{width:100%}.Bi9oQd{background-color:var(--gS5jXb);margin-top:18px;position:absolute;border:0;height:1px;left:0;width:100%}.TQc1id .Bi9oQd{display:none}.kC8B4e .Bi9oQd{display:none}.w2fKdd svg{width:auto}.w2fKdd{color:var(--amnPwe)}.LGwnxb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto;padding-left:0;padding-right:8px;max-width:200px;color:#202124}.LGwnxb:empty{padding-right:0}.LGwnxb span,.LGwnxb div{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width:auto}Lihat lainnya&quot;))]</value>
+      <webElementGuid>f1752d73-2620-469b-a4b1-627f23941aa9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
