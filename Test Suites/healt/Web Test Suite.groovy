@@ -23,6 +23,9 @@ import com.kms.katalon.core.annotation.SetUp
 import com.kms.katalon.core.annotation.SetupTestCase
 import com.kms.katalon.core.annotation.TearDown
 import com.kms.katalon.core.annotation.TearDownTestCase
+import com.kms.katalon.core.model.FailureHandling
+import com.kms.katalon.core.testcase.TestCaseFactory
+
 
 /**
  * Some methods below are samples for using SetUp/TearDown in a test suite.
@@ -47,9 +50,9 @@ def tearDown() {
 /**
  * Run before each test case starts.
  */
-@SetupTestCase(skipped = true) // Please change skipped to be false to activate this method.
+@SetupTestCase(skipped = true)
 def setupTestCase() {
-	// Put your code here.
+    // Temukan kasus uji yang ingin Anda jalankan
 }
 
 /**
