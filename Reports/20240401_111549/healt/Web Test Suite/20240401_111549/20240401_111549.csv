@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Web Test Suite,,,,01-04-2024 11:15:56,01-04-2024 11:15:57,0.669s,ERROR
+,,,,,,,
+Test Cases/Web Test Case,,,,01-04-2024 11:15:57,01-04-2024 11:15:57,0.416s,ERROR
+Start setup action : setupTestCase,,,,01-04-2024 11:15:57,01-04-2024 11:15:57,0.355s,ERROR
