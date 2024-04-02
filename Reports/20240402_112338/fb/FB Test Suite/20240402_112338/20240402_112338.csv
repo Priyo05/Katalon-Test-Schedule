@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FB Test Suite,Chrome 123.0.0.0,,,02-04-2024 11:23:45,02-04-2024 11:24:28,42.601s,PASSED
+,,,,,,,
+Test Cases/Facebook Test Case,Chrome 123.0.0.0,,,02-04-2024 11:23:46,02-04-2024 11:24:28,42.332s,PASSED
+"openBrowser("""")",Chrome 123.0.0.0,,,02-04-2024 11:23:46,02-04-2024 11:23:48,2.411s,PASSED
+"navigateToUrl(""https://www.google.co.id/"")",Chrome 123.0.0.0,,,02-04-2024 11:23:48,02-04-2024 11:23:50,1.403s,PASSED
+"setText(findTestObject(""Object Repository/Facebook/Page_Google/textarea_Login_q""), ""facebook"")",Chrome 123.0.0.0,,,02-04-2024 11:23:50,02-04-2024 11:23:51,0.800s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Page_Google/span_Facebook""))",Chrome 123.0.0.0,,,02-04-2024 11:23:51,02-04-2024 11:23:51,0.742s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Page_facebook - Penelusuran Google/h3_Facebook - Masuk atau Daftar""))",Chrome 123.0.0.0,,,02-04-2024 11:23:51,02-04-2024 11:23:55,3.216s,PASSED
+"setText(findTestObject(""Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/input_Facebook membantu Anda terhubung dan _d8519f""), ""aasdwwa"")",Chrome 123.0.0.0,,,02-04-2024 11:23:55,02-04-2024 11:23:55,0.829s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/input_Facebook membantu Anda terhubung dan _cfe51c""), ""bDSyL2RfH+FAffRcDCCR9Q=="")",Chrome 123.0.0.0,,,02-04-2024 11:23:55,02-04-2024 11:23:56,0.695s,PASSED
+"click(findTestObject(""Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/button_Masuk""))",Chrome 123.0.0.0,,,02-04-2024 11:23:56,02-04-2024 11:24:28,31.493s,PASSED
+closeBrowser(),Chrome 123.0.0.0,,,02-04-2024 11:24:28,02-04-2024 11:24:28,0.343s,PASSED

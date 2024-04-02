@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/youtube/Page_Google/iframe_Login_callout_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/button_Masuk",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_z9\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook/Page_Facebook - Masuk atau Daftar/button_Masuk_position.png"
     }
   ]
 }
